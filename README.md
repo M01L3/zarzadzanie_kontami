@@ -51,6 +51,11 @@ Pozostałe pola (User Name: sa, Password: puste) pozostaw bez zmian.
 
 Kliknij przycisk "Connect".
 
+### Dane do logowania testowego:
+Dla ułatwienia testów, aplikacja przy starcie tworzy konta testowe:
+* **Administrator:** - Login: `admin`
+  - Hasło: `admin`
+
 Założenia projektowe
 Responsywność: Interfejs użytkownika został zaprojektowany w oparciu o elastyczne siatki (Flexbox/Grid), dzięki czemu aplikacja jest w pełni responsywna na urządzeniach mobilnych, tabletach i komputerach.
 
